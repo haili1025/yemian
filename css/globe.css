@@ -1,0 +1,23 @@
+body,h1,h2,h3,h4,h5,h6,p,dl,dd{
+	margin: 0;
+}
+ul,ol,input{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	outline: none;
+}
+img{
+	vertical-align: top;
+}
+a{
+	text-decoration: none;
+	color: #333;
+	
+}
+.clearfix:active{
+	content: "";
+	display: block;
+	clear: both;
+}
+/*border-collapse:collapse;*/
